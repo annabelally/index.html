@@ -1,11 +1,37 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Title of the document</title>
+<title>Ally Accessibility Office Hours Scheduling</title>
+
+<link href="https://fonts.googleapis.com/css?family=Lato:400,700&display=swap" rel="stylesheet">
+
+<style>
+	
+	body {font-family:Lato;padding:20px;color:#2a2a2a;}
+	.container {width:100%;max-width:1000px;margin:50px auto;}
+	h1, h4 {line-height:1;margin:40px 0 20px 0;}
+	h1 {font-size:36px;}
+	h4 {font-size:20px;}
+	p {max-width:800px;}
+	iframe {min-height: 1500px !important; width: 100%; height: 100%; border: none;}
+
+</style>
+
 </head>
 
 <body>
-<!-- Start Square Appointments Embed Code --><script src='https://squareup.com/appointments/buyer/widget/7nw9a37v6jxiy4/L50BX8Z9ZB2XP.js'></script><!-- End Square Appointments Embed Code -->
+	<div class="container">
+		<h1>Ally Accessibility Office Hours Scheduling</h1>
+<h4>Make sure to include the following in your appointment notes:</h4>
+<li>What is the name of the project and what LOB?</li>
+<li>What type of question do you have? (design, content, dev, testing)</li>
+<li>What is the gemini ticket, jira ticket or confluence link?</li>
+<li>Do other teammates need the invite? If so, who?</li>
+<p><em>Please try to schedule the earliest available time. Also, please share the time you scheduled with any teammates who need to be included. We will post the schedule on the #ux-accessibility slack channel, and please use the zoom in the standing accessibility office hours invite to join at the time you scheduled.</em><br/>(You don't have to put in a real phone number, but you can if you want a text notification reminding you of your booked time.)</p>
+
+	</div>
+<!-- Start Square Appointments Embed Code --><script src='https://squareup.com/appointments/buyer/widget/7nw9a37v6jxiy4/L50BX8Z9ZB2XP.js'></script><!-- End Square Appointments EmbedCode -->
+
 </body>
 
 </html>
